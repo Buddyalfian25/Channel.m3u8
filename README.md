@@ -1,2 +1,2 @@
-# Channel.m3u8
+# Channel.m3u
 Aktif
